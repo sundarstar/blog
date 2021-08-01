@@ -1,0 +1,22 @@
+body{
+    background-image: url(blog.jpg);
+}
+p{
+    color: chartreuse;
+    background-color: rgb(13, 66, 112);
+    border: 2.5px solid red ;
+    padding: 4px 8px 12px 32px;
+    margin: 50px;
+    text-align: center;
+    width: 50%;
+}
+a{
+    background-color: rgb(174, 174, 206);
+    colour: white;
+}
+a:hover{
+    color:aliceblue;
+}
+a:visited{
+    color: red;
+}
